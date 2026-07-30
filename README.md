@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Julian%20%20Patterson&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%%20%7C%&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Julian%20%20Patterson&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%7C%%20%7C%&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+Node.js+%2B+MongoDB;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Startup+Thinker+%7C+Garage+Entrepreneur+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Cloud+Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>

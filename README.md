@@ -18,7 +18,7 @@
 
 ```javascript
 const julian = {
-  name:       "Julian Pattersonr",
+  name:       "Julian Patterson",
   location:   "Minneapolis MN",
   role:       "Cloud Software Engineer",
   currentWork: "Thomson Reuters"
